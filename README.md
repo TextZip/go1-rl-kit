@@ -6,6 +6,14 @@ This repo can be deployed in the following configurations:
 2. External PC/NUC with WiFi 
 3. Internal Computer of the Go1 
 
+# Dependencies 
+- python3.8
+- torch
+- matplotlib
+- numpy<1.24
+- scipy
+- other dependencies for unitree_legged_sdk
+
 # Installation 
 On the target machine run the following commands
 1. `git clone https://github.com/TextZip/go1-rl-kit`  
