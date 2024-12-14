@@ -1,4 +1,5 @@
 # go1-rl-kit
+![Image1](/cover.png)
 Deployment kit for Unitree Go1 Edu 
 
 This repo can be deployed in the following configurations:
